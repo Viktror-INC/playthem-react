@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/playthem-react/static/css/main.26100d00.chunk.css",
+    "main.js": "/playthem-react/static/js/main.cd53335d.chunk.js",
+    "main.js.map": "/playthem-react/static/js/main.cd53335d.chunk.js.map",
+    "runtime-main.js": "/playthem-react/static/js/runtime-main.762efe10.js",
+    "runtime-main.js.map": "/playthem-react/static/js/runtime-main.762efe10.js.map",
+    "static/js/2.46d4a3a0.chunk.js": "/playthem-react/static/js/2.46d4a3a0.chunk.js",
+    "static/js/2.46d4a3a0.chunk.js.map": "/playthem-react/static/js/2.46d4a3a0.chunk.js.map",
+    "index.html": "/playthem-react/index.html",
+    "static/css/main.26100d00.chunk.css.map": "/playthem-react/static/css/main.26100d00.chunk.css.map",
+    "static/js/2.46d4a3a0.chunk.js.LICENSE.txt": "/playthem-react/static/js/2.46d4a3a0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/playthem-react/static/media/page3-bgc.d9cb77ef.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.762efe10.js",
+    "static/js/2.46d4a3a0.chunk.js",
+    "static/css/main.26100d00.chunk.css",
+    "static/js/main.cd53335d.chunk.js"
+  ]
+}
